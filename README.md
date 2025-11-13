@@ -11,8 +11,6 @@ Hi there! I'm Abdelhak ELKEDDAOUI, a passionate developer from Morocco with a gr
 ![](https://nirzak-streak-stats.vercel.app/?user=abdelhakelk&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelhakelk&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=abdelhakelk&limit=5&theme=dark&combine_all_yearly_contributions=true)
